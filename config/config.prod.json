@@ -1,0 +1,7 @@
+{
+  "post_static_redis": {
+    "host": "test",
+    "port": 18820,
+    "password": "test"
+  }
+}
