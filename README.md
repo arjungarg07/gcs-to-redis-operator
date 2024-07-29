@@ -72,7 +72,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Acknowledgments
-- The developers and maintainers of the libraries and tools used in this project.
-- The Go community for providing excellent resources and support.
